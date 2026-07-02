@@ -14,10 +14,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3084272c-f201-4144-9ea6-ec3cbe0f66f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grupp4Git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grupp4Git/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grupp4Git/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Grupp4Git/Views/Home/Index.cshtml" afterDir="false" />
-    </list>
+    <list default="true" id="3084272c-f201-4144-9ea6-ec3cbe0f66f6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +93,14 @@
       <updated>1782983266088</updated>
       <workItem from="1782983267515" duration="50000" />
     </task>
+    <task id="LOCAL−00001" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1782984438777</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1782984438777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +110,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
