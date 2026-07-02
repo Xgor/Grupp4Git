@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Grupp4Git: http.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -100,7 +101,21 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1782984438777</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1782984835342</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1782984835342</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Fixed uncloded div">
+      <option name="closed" value="true" />
+      <created>1782984922094</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1782984922094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +126,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="Fixed uncloded div" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed uncloded div" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
